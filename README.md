@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C3E50,50:34495E,100:5D6D7E&height=250&section=header&text=BJANE%20ASMAA&fontSize=80&fontAlign=50&fontAlignY=40&desc=Software%20Engineer%20%7C%20AI%20Specialist%20%7C%20Full-Stack%20Developer&descAlign=50&descAlignY=60&descSize=20&animation=fadeIn&fontColor=ECF0F1" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=BJANE%20ASMAA&fontSize=90&fontAlign=50&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Specialist%20%7C%20Full-Stack%20Developer&descAlign=50&descAlignY=58&descSize=22&animation=twinkling&fontColor=gradient" />
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=32&duration=3000&pause=1000&color=5D6D7E&center=true&vCenter=true&random=false&width=700&lines=Full-Stack+Developer;AI+%26+Machine+Learning+Engineer;Cloud+Architecture+Specialist;Enterprise+Solutions+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=35&duration=2500&pause=800&color=1E88E5&center=true&vCenter=true&random=false&width=750&lines=Full-Stack+Developer+%F0%9F%9A%80;AI+%26+Machine+Learning+Engineer+%F0%9F%A4%96;Cloud+Architecture+Specialist+%E2%98%81%EF%B8%8F;Enterprise+Solutions+Expert+%F0%9F%92%BC;Open+for+Freelance+%26+Collaboration+%F0%9F%A4%9D" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -13,6 +13,12 @@
   <img src="https://img.shields.io/github/followers/jbxsa01?label=Followers&style=for-the-badge&color=5D6D7E&logo=github&logoColor=white" alt="GitHub Followers"/>
   <img src="https://komarev.com/ghpvc/?username=jbxsa01&style=for-the-badge&color=5D6D7E&label=Profile+Views" alt="Profile Views"/>
   <img src="https://img.shields.io/github/stars/jbxsa01?style=for-the-badge&color=5D6D7E&logoColor=white" alt="GitHub Stars"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/%F0%9F%92%BC-Open%20to%20Freelance-1E88E5?style=for-the-badge" alt="Freelance"/>
+  <img src="https://img.shields.io/badge/%F0%9F%A4%9D-Available%20for%20Collaboration-00897B?style=for-the-badge" alt="Collaboration"/>
+  <img src="https://img.shields.io/badge/%F0%9F%93%A9-Let's%20Work%20Together-7B1FA2?style=for-the-badge" alt="Work Together"/>
 </p>
 
 <br>
