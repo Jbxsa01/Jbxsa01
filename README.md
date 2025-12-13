@@ -1,15 +1,10 @@
 <div align="center">
-  
-```javascript
-const developer = {
-  name: "Software Engineer & AI Specialist",
-  expertise: ["Full-Stack", "Machine Learning", "Cloud Architecture"],
-  passion: "Building Scalable Solutions",
-  status: "Open to Opportunities"
-}
-```
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=89b4fa&center=true&vCenter=true&width=700&lines=Software+Engineer++;+AI+%26+Machine+Learning+Specialist;Full-Stack+Development+%26+Cloud+Architecture;Building+Innovative+Solutions)](https://github.com/jbxsa01)
+# Software Engineer & AI Specialist
+
+---
+
+**Full-Stack Development** • **Machine Learning** • **Cloud Architecture**
 
 </div>
 
