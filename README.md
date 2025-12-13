@@ -136,20 +136,23 @@ Impact: Reduced operational costs by 70% through automation
 ### 📊 GitHub Performance Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jbxsa01&show_icons=true&hide_border=true&bg_color=1a1b27&title_color=5D6D7E&icon_color=5D6D7E&text_color=c0c0c0&count_private=true&include_all_commits=true&custom_title=GitHub%20Statistics" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jbxsa01&show_icons=true&hide_border=true&bg_color=1a1b27&title_color=5D6D7E&icon_color=5D6D7E&text_color=c0c0c0&count_private=true&custom_title=GitHub%20Statistics" alt="GitHub Stats" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jbxsa01&hide_border=true&background=1a1b27&stroke=5D6D7E&ring=5D6D7E&fire=BDC3C7&currStreakLabel=5D6D7E&sideLabels=5D6D7E&currStreakNum=ECF0F1&dates=95A5A6" alt="GitHub Streak" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jbxsa01&hide_border=true&bg_color=1a1b27&title_color=5D6D7E&text_color=c0c0c0&layout=compact&langs_count=10&custom_title=Most%20Used%20Languages" alt="Top Languages" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jbxsa01&hide_border=true&bg_color=1a1b27&title_color=5D6D7E&text_color=c0c0c0&layout=compact&custom_title=Coding%20Activity" alt="Coding Activity" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jbxsa01&hide_border=true&bg_color=1a1b27&title_color=5D6D7E&text_color=c0c0c0&layout=compact&langs_count=10&custom_title=Most%20Used%20Languages" alt="Top Languages" width="98%"/>
 </p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jbxsa01&theme=gruvbox" alt="Profile Summary" width="98%"/>
 </p>
 
+### 🏆 Achievements & Recognition
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jbxsa01&theme=gruvbox&no-frame=true&no-bg=false&row=2&column=6&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
+</p>
 
 ### 📈 Contribution Analytics
 
