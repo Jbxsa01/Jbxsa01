@@ -4,7 +4,7 @@
 
 ---
 
-**Full-Stack Development** • **Machine Learning** • **Cloud Architecture**
+**Full-Stack Development** • **Machine Learning** 
 
 </div>
 
