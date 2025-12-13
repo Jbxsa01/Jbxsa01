@@ -1,12 +1,17 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,50:181825,100:11111b&height=200&section=header&text=BJANE%20ASMAA&fontSize=80&fontAlign=50&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20Specialist%20%7C%20Full-Stack%20Developer&descAlign=50&descAlignY=53&descSize=18&fontColor=cdd6f4" />
+  
+```javascript
+const developer = {
+  name: "Software Engineer & AI Specialist",
+  expertise: ["Full-Stack", "Machine Learning", "Cloud Architecture"],
+  passion: "Building Scalable Solutions",
+  status: "Open to Opportunities"
+}
+```
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=89b4fa&center=true&vCenter=true&width=700&lines=Software+Engineer++;+AI+%26+Machine+Learning+Specialist;Full-Stack+Development+%26+Cloud+Architecture;Building+Innovative+Solutions)](https://github.com/jbxsa01)
+
 </div>
-
-<h1 align="center">Software Engineer & AI Specialist</h1>
-
-<p align="center">
-  Full-Stack Development | Machine Learning | Cloud Architecture
-</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bjane-asmaa/">
