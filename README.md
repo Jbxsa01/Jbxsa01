@@ -1,65 +1,68 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Bjane%20Asmaa&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=180&section=header&text=BJANE%20ASMAA&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=e94560&desc=Software%20Engineer%20%26%20AI%20Specialist&descAlignY=55&descSize=18" />
 </div>
 
 <div align="center">
   
-  <!-- Image du profil - Remplacez l'URL ci-dessous par votre image GitHub -->
-  <img src="https://github.com/jbxsa01.png" alt="Profile Picture" width="150" style="border-radius: 50%; border: 5px solid #0969da;"/>
-  
-  <h1>👋 Salut, je suis Bjane Asmaa</h1>
-  <h3>🚀 Full-Stack Developer | 🤖 AI Engineer | 🎓 Final Year Student</h3>
+  <h3 style="color: #e94560;">Full-Stack Developer | AI Engineer | Computer Science Graduate</h3>
   
   <p>
     <a href="https://www.linkedin.com/in/bjaneasmaa/">
-      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <img src="https://komarev.com/ghpvc/?username=jbxsa01&style=for-the-badge&color=brightgreen" alt="Profile views"/>
+    <img src="https://img.shields.io/github/followers/jbxsa01?style=flat-square&logo=github&label=Followers" alt="GitHub Followers"/>
+    <img src="https://komarev.com/ghpvc/?username=jbxsa01&style=flat-square&color=0f3460&label=Profile+Views" alt="Profile views"/>
   </p>
 </div>
 
 ---
 
-## 💫 À propos de moi
+## Professional Overview
 
 ```typescript
-const bjane = {
-  code: ["Java", "JavaScript", "TypeScript", "Python", "C++", "PHP"],
-  askMeAbout: ["AI", "Full-Stack Dev", "Cloud", "DevOps"],
-  technologies: {
-    frontEnd: {
-      js: ["React", "Next.js", "Vue.js", "Angular"],
-      css: ["TailwindCSS", "Bootstrap", "Material-UI"]
-    },
-    backEnd: {
-      java: ["Spring Boot"],
-      js: ["Node.js", "Express", "NestJS"],
-      python: ["Django", "Flask", "FastAPI"]
-    },
-    mobile: ["React Native", "Flutter"],
-    databases: ["MySQL", "PostgreSQL", "MongoDB", "Redis"],
-    ai_ml: ["TensorFlow", "PyTorch", "Keras", "scikit-learn"],
-    devOps: ["Docker", "Kubernetes", "AWS", "Azure", "Jenkins"],
-    tools: ["Git", "Postman", "Maven", "Gradle"]
+interface ProfessionalProfile {
+  role: string;
+  specialization: string[];
+  experience: {
+    fullStack: string[];
+    artificialIntelligence: string[];
+    cloudInfrastructure: string[];
+  };
+  currentFocus: string;
+}
+
+const profile: ProfessionalProfile = {
+  role: "Software Engineer & AI Specialist",
+  specialization: ["Full-Stack Development", "Machine Learning", "Cloud Architecture"],
+  experience: {
+    fullStack: ["React", "Next.js", "Spring Boot", "Node.js", "TypeScript"],
+    artificialIntelligence: ["TensorFlow", "PyTorch", "NLP", "Computer Vision"],
+    cloudInfrastructure: ["AWS", "Azure", "Docker", "Kubernetes", "CI/CD"]
   },
-  currentProject: "PFE - AI-driven Full-Stack Application",
-  funFact: "J'ai réduit l'utilisation de papier de 70% avec une app web! 📄♻️"
+  currentFocus: "AI-driven Enterprise Solutions"
 };
 ```
 
-## 🎯 Actuellement
+## Areas of Expertise
 
-- 🔭 Je travaille sur mon **Projet de Fin d'Études (PFE)** - intégration d'IA dans une application full-stack
-- 🌱 J'apprends les **architectures d'agents intelligents** (TTS, STT, OCR) et **Java SE 17**
-- 👯 Ouvert à collaborer sur des **projets IA complexes** et **applications full-stack scalables**
-- 💬 Demandez-moi sur **l'IA**, **React**, **Spring Boot**, **Node.js**, et **le déploiement en production**
-- 🤝 Je cherche de l'aide avec **l'intégration SAP** et **Kubernetes en production**
+**Current Focus**: Developing AI-integrated enterprise applications with emphasis on scalability, performance optimization, and production-grade deployment strategies.
+
+**Core Competencies**:
+- Enterprise-grade full-stack application development
+- Advanced machine learning systems and NLP pipelines
+- Cloud-native architecture and microservices design
+- DevOps automation and container orchestration
+
+**Open for Collaboration**:
+- Complex AI/ML projects requiring production-ready implementations
+- Scalable full-stack applications with modern architecture patterns
+- Enterprise software integration and optimization
 
 ---
 
-## 🛠️ Technologies & Outils
+## Technical Stack
 
-### 💻 Langages de Programmation
+### Programming Languages
 <p>
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
@@ -72,7 +75,7 @@ const bjane = {
   <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
 </p>
 
-### 🎨 Frontend
+### Frontend Technologies
 <p>
   <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
@@ -85,7 +88,7 @@ const bjane = {
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-### ⚙️ Backend
+### Backend Frameworks
 <p>
   <img src="https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -98,7 +101,7 @@ const bjane = {
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
 </p>
 
-### 🗄️ Bases de Données
+### Databases & Data Storage
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -110,7 +113,7 @@ const bjane = {
   <img src="https://img.shields.io/badge/Cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white" />
 </p>
 
-### 🤖 AI / Machine Learning
+### Artificial Intelligence & Machine Learning
 <p>
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
@@ -121,7 +124,7 @@ const bjane = {
   <img src="https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" />
 </p>
 
-### ☁️ Cloud & DevOps
+### Cloud Infrastructure & DevOps
 <p>
   <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
@@ -135,7 +138,7 @@ const bjane = {
   <img src="https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
 </p>
 
-### 🔧 Outils
+### Development Tools
 <p>
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
@@ -148,46 +151,43 @@ const bjane = {
 
 ---
 
-## 📊 Statistiques GitHub
+## GitHub Analytics
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=jbxsa01&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jbxsa01&theme=radical&hide_border=false" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jbxsa01&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=0d1117&title_color=e94560&icon_color=e94560&text_color=c9d1d9" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jbxsa01&theme=tokyonight&hide_border=true&background=0d1117&stroke=e94560&ring=e94560&fire=e94560&currStreakLabel=e94560" height="170" />
   
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jbxsa01&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jbxsa01&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=e94560&text_color=c9d1d9" />
 </div>
 
-### 🏆 Trophées GitHub
+### Performance Metrics
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jbxsa01&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jbxsa01&theme=discord&no-frame=true&no-bg=true&margin-w=4&column=7" />
 </div>
 
-### 📈 Graphique de Contributions
+### Contribution Activity
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jbxsa01&theme=tokyo-night&hide_border=false" />
-</div>
-
-### ✍️ Citation Dev du Jour
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jbxsa01&theme=github-dark-dimmed&hide_border=true&bg_color=0d1117&color=e94560&line=e94560&point=c9d1d9" />
 </div>
 
 ---
 
 <div align="center">
   
-  ### 💼 Contactez-moi
+  ### Professional Network
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bjaneasmaa/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bjaneasmaa/)
   
-  **Ouvert aux opportunités de collaboration et aux projets innovants!**
+  <p style="color: #c9d1d9;">
+    <em>Open to collaboration opportunities and innovative project discussions</em>
+  </p>
   
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=120&section=footer" />
 </div>
