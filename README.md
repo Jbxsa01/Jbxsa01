@@ -149,11 +149,7 @@ Impact: Reduced operational costs by 70% through automation
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jbxsa01&theme=gruvbox" alt="Profile Summary" width="98%"/>
 </p>
 
-### 🏆 Achievements & Recognition
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jbxsa01&theme=gruvbox&no-frame=true&no-bg=false&row=2&column=6&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
-</p>
 
 ### 📈 Contribution Analytics
 
