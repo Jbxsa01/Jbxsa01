@@ -1,24 +1,24 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=BJANE%20ASMAA&fontSize=90&fontAlign=50&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Specialist%20%7C%20Full-Stack%20Developer&descAlign=50&descAlignY=58&descSize=22&animation=twinkling&fontColor=gradient" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,50:181825,100:11111b&height=280&section=header&text=BJANE%20ASMAA&fontSize=90&fontAlign=50&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Specialist%20%7C%20Full-Stack%20Developer&descAlign=50&descAlignY=58&descSize=22&animation=twinkling&fontColor=cdd6f4" />
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=35&duration=2500&pause=800&color=1E88E5&center=true&vCenter=true&random=false&width=750&lines=Full-Stack+Developer+%F0%9F%9A%80;AI+%26+Machine+Learning+Engineer+%F0%9F%A4%96;Cloud+Architecture+Specialist+%E2%98%81%EF%B8%8F;Enterprise+Solutions+Expert+%F0%9F%92%BC;Open+for+Freelance+%26+Collaboration+%F0%9F%A4%9D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=35&duration=2500&pause=800&color=89b4fa&center=true&vCenter=true&random=false&width=750&lines=Full-Stack+Developer+%F0%9F%9A%80;AI+%26+Machine+Learning+Engineer+%F0%9F%A4%96;Cloud+Architecture+Specialist+%E2%98%81%EF%B8%8F;Enterprise+Solutions+Expert+%F0%9F%92%BC;Open+for+Freelance+%26+Collaboration+%F0%9F%A4%9D" alt="Typing SVG" />
 </h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bjaneasmaa/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <img src="https://img.shields.io/github/followers/jbxsa01?label=Followers&style=for-the-badge&color=5D6D7E&logo=github&logoColor=white" alt="GitHub Followers"/>
-  <img src="https://komarev.com/ghpvc/?username=jbxsa01&style=for-the-badge&color=5D6D7E&label=Profile+Views" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/stars/jbxsa01?style=for-the-badge&color=5D6D7E&logoColor=white" alt="GitHub Stars"/>
+  <img src="https://img.shields.io/github/followers/jbxsa01?label=Followers&style=for-the-badge&color=89b4fa&logo=github&logoColor=white" alt="GitHub Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=jbxsa01&style=for-the-badge&color=89b4fa&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/stars/jbxsa01?style=for-the-badge&color=89b4fa&logoColor=white" alt="GitHub Stars"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%92%BC-Open%20to%20Freelance-1E88E5?style=for-the-badge" alt="Freelance"/>
-  <img src="https://img.shields.io/badge/%F0%9F%A4%9D-Available%20for%20Collaboration-00897B?style=for-the-badge" alt="Collaboration"/>
-  <img src="https://img.shields.io/badge/%F0%9F%93%A9-Let's%20Work%20Together-7B1FA2?style=for-the-badge" alt="Work Together"/>
+  <img src="https://img.shields.io/badge/%F0%9F%92%BC-Open%20to%20Freelance-89b4fa?style=for-the-badge" alt="Freelance"/>
+  <img src="https://img.shields.io/badge/%F0%9F%A4%9D-Available%20for%20Collaboration-94e2d5?style=for-the-badge" alt="Collaboration"/>
+  <img src="https://img.shields.io/badge/%F0%9F%93%A9-Let's%20Work%20Together-f38ba8?style=for-the-badge" alt="Work Together"/>
 </p>
 
 <br>
@@ -51,13 +51,13 @@ Impact: Reduced operational costs by 70% through automation
 <br>
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-2C3E50?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-34495E?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![Python](https://img.shields.io/badge/Python-2C3E50?style=for-the-badge&logo=python&logoColor=FFD43B)
-![C++](https://img.shields.io/badge/C++-34495E?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
-![C#](https://img.shields.io/badge/C%23-5D6D7E?style=for-the-badge&logo=csharp&logoColor=239120)
-![PHP](https://img.shields.io/badge/PHP-2C3E50?style=for-the-badge&logo=php&logoColor=777BB4)
-![Kotlin](https://img.shields.io/badge/Kotlin-34495E?style=for-the-badge&logo=kotlin&logoColor=7F52FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-1e1e2e?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-181825?style=for-the-badge&logo=typescript&logoColor=89b4fa)
+![Python](https://img.shields.io/badge/Python-11111b?style=for-the-badge&logo=python&logoColor=f9e2af)
+![C++](https://img.shields.io/badge/C++-1e1e2e?style=for-the-badge&logo=c%2B%2B&logoColor=89dceb)
+![C#](https://img.shields.io/badge/C%23-181825?style=for-the-badge&logo=csharp&logoColor=cba6f7)
+![PHP](https://img.shields.io/badge/PHP-11111b?style=for-the-badge&logo=php&logoColor=b4befe)
+![Kotlin](https://img.shields.io/badge/Kotlin-1e1e2e?style=for-the-badge&logo=kotlin&logoColor=f38ba8)
 
 </details>
 
@@ -136,44 +136,43 @@ Impact: Reduced operational costs by 70% through automation
 ### 📊 GitHub Performance Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jbxsa01&show_icons=true&hide_border=true&bg_color=1a1b27&title_color=5D6D7E&icon_color=5D6D7E&text_color=c0c0c0&count_private=true&custom_title=GitHub%20Statistics" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jbxsa01&hide_border=true&background=1a1b27&stroke=5D6D7E&ring=5D6D7E&fire=BDC3C7&currStreakLabel=5D6D7E&sideLabels=5D6D7E&currStreakNum=ECF0F1&dates=95A5A6" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jbxsa01&show_icons=true&hide_border=true&bg_color=1e1e2e&title_color=89b4fa&icon_color=89b4fa&text_color=cdd6f4&count_private=true&custom_title=GitHub%20Statistics" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jbxsa01&hide_border=true&background=1e1e2e&stroke=89b4fa&ring=89b4fa&fire=f38ba8&currStreakLabel=89b4fa&sideLabels=89b4fa&currStreakNum=cdd6f4&dates=6c7086" alt="GitHub Streak" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jbxsa01&hide_border=true&bg_color=1a1b27&title_color=5D6D7E&text_color=c0c0c0&layout=compact&langs_count=10&custom_title=Most%20Used%20Languages" alt="Top Languages" width="98%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jbxsa01&hide_border=true&bg_color=1e1e2e&title_color=89b4fa&text_color=cdd6f4&layout=compact&langs_count=10&custom_title=Most%20Used%20Languages" alt="Top Languages" width="98%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jbxsa01&theme=gruvbox" alt="Profile Summary" width="98%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jbxsa01&theme=catppuccin_mocha" alt="Profile Summary" width="98%"/>
 </p>
 
 ### 🏆 Achievements & Recognition
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jbxsa01&theme=gruvbox&no-frame=true&no-bg=false&row=2&column=6&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=jbxsa01&theme=catppuccin_mocha&no-frame=true&no-bg=false&row=2&column=6&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
 </p>
 
 ### 📈 Contribution Analytics
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jbxsa01&bg_color=1a1b27&color=5D6D7E&line=BDC3C7&point=ECF0F1&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" alt="Contribution Graph" width="98%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jbxsa01&bg_color=1e1e2e&color=89b4fa&line=89b4fa&point=cdd6f4&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" alt="Contribution Graph" width="98%"/>
 </p>
 
 ### 💡 Code Metrics & Insights
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jbxsa01&theme=gruvbox" alt="Productive Time" width="32%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jbxsa01&theme=gruvbox" alt="Repos Per Language" width="32%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jbxsa01&theme=gruvbox" alt="Most Commit Language" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jbxsa01&theme=catppuccin_mocha" alt="Productive Time" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jbxsa01&theme=catppuccin_mocha" alt="Repos Per Language" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jbxsa01&theme=catppuccin_mocha" alt="Most Commit Language" width="32%"/>
 </p>
 
 ### 📊 Detailed Statistics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jbxsa01&theme=gruvbox" alt="Stats" width="32%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jbxsa01&theme=gruvbox&utcOffset=1" alt="Commit Time" width="32%"/>
-  <img src="https://leetcard.jacoblin.cool/jbxsa01?theme=dark&font=Baloo%202" alt="LeetCode Stats" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jbxsa01&theme=catppuccin_mocha" alt="Stats" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jbxsa01&theme=catppuccin_mocha&utcOffset=1" alt="Commit Time" width="48%"/>
 </p>
 
 ### 💼 Professional Network
@@ -182,29 +181,29 @@ Impact: Reduced operational costs by 70% through automation
   <a href="https://www.linkedin.com/in/bjaneasmaa/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:bjane.asmaa@example.com">
-    <img src="https://img.shields.io/badge/Email-5D6D7E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:bjane.asmaa1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-89b4fa?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/jbxsa01">
-    <img src="https://img.shields.io/badge/GitHub-2C3E50?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-1e1e2e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://twitter.com/jbxsa01">
-    <img src="https://img.shields.io/badge/Twitter-34495E?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  <a href="https://bjaneasmaa.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-f38ba8?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox_light" alt="Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha" alt="Dev Quote"/>
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C3E50,50:34495E,100:5D6D7E&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,50:181825,100:11111b&height=120&section=footer" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=14&pause=1000&color=5D6D7E&center=true&vCenter=true&width=700&lines=Open+to+collaboration+and+innovative+opportunities;Building+scalable+solutions+for+complex+challenges;Committed+to+continuous+learning+and+excellence" alt="Footer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=14&pause=1000&color=89b4fa&center=true&vCenter=true&width=700&lines=Open+to+collaboration+and+innovative+opportunities;Building+scalable+solutions+for+complex+challenges;Committed+to+continuous+learning+and+excellence" alt="Footer" />
 </p>
