@@ -2,10 +2,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,50:181825,100:11111b&height=200&section=header&text=BJANE%20ASMAA&fontSize=80&fontAlign=50&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20Specialist%20%7C%20Full-Stack%20Developer&descAlign=50&descAlignY=53&descSize=18&fontColor=cdd6f4" />
 </div>
 
-<h1 align="center">Full-Stack Developer | AI Engineer | Cloud Architect</h1>
+<h1 align="center">Software Engineer & AI Specialist</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/bjaneasmaa/">
+  Full-Stack Development | Machine Learning | Cloud Architecture
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/bjane-asmaa/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/jbxsa01">
@@ -17,19 +21,16 @@
   <a href="mailto:bjane.asmaa1@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/jbxsa01?style=flat-square&color=89b4fa&logo=github&logoColor=white" alt="GitHub Followers"/>
-  <img src="https://img.shields.io/github/stars/jbxsa01?style=flat-square&color=f9e2af" alt="GitHub Stars"/>
-  <img src="https://komarev.com/ghpvc/?username=jbxsa01&style=flat-square&color=89b4fa" alt="Profile Views"/>
+  <a href="tel:+212652846950">
+    <img src="https://img.shields.io/badge/Phone-+212652846950-green?style=flat-square&logo=phone&logoColor=white" alt="Phone"/>
+  </a>
 </p>
 
 ---
 
-### About Me
+## About Me
 
-I'm a results-driven Software Engineer with a passion for building scalable solutions at the intersection of AI and cloud infrastructure. Specialized in designing enterprise-grade applications that solve complex business problems while maintaining code quality and performance standards.
+**Software Engineer & AI Specialist** avec une expertise en développement full-stack et intelligence artificielle. Mon parcours allie rigueur technique et vision stratégique pour créer des solutions innovantes.
 
 **Current Focus:**
 - Building AI-driven enterprise applications with production-grade architecture
@@ -37,6 +38,40 @@ I'm a results-driven Software Engineer with a passion for building scalable solu
 - Full-stack development with modern frameworks and best practices
 
 ---
+
+## Formation
+
+### Cycle Ingénieur - 5ème Année
+**École Marocaine des Sciences de l'Ingénieur (EMSI)** | En cours
+
+- MIAGE - Méthodes Informatiques Appliquées à la Gestion
+- Spécialisation: Software Architecture & Data Engineering
+- Formation d'excellence combinant expertise technique avancée et vision stratégique
+
+---
+
+## Professional Experience
+
+### Mobile & AI Engineering: React Implementation
+**AfriTechia, Casablanca** | 07/25 - 08/25
+
+- Conception d'un système intelligent intégrant OCR, STT et TTS pour la traduction Darija
+- Amélioration de 80% de la communication multilingue
+- Technologies: IA, NLP, Machine Learning, Développement Mobile
+
+### UI/UX Architect & Functional Lead
+**Oriigami** | 03/25 - 04/25
+
+- Rédaction des Cahiers des Charges Fonctionnels (Web et Mobile)
+- Étude de marché et analyse des besoins utilisateurs
+- Développement de stratégies de communication et création de contenu digital
+
+### Backend Integration & Full-Stack Contribution
+**SOMAGEC GROUP** | 07/24 - 08/24
+
+- Développement d'une application de gestion des équipements et ressources
+- Configuration et gestion de serveurs virtuels (VMware, Hyper-V, Proxmox)
+- Administration Linux/Windows Server, GLPI, Active Directory, câblage réseau
 
 ## Core Competencies
 
@@ -124,24 +159,56 @@ I'm a results-driven Software Engineer with a passion for building scalable solu
 
 ## Featured Projects
 
-### Highlighted Repositories
-- Building scalable distributed systems and cloud-native applications
-- Open source contributions in AI/ML ecosystem
-- Enterprise solutions with production-grade architecture
+Check out my repositories for real-world implementations in:
+- Full-stack web applications
+- Cloud infrastructure automation
+- Machine learning solutions
+- Open-source contributions
 
 ---
 
 ## Professional Experience
 
-**Key Achievements:**
-- Architected and deployed AI-powered systems serving 100K+ daily users
-- Reduced infrastructure costs by 65% through cloud optimization
-- Led microservices migration, improving system scalability by 300%
-- Implemented automated CI/CD pipelines reducing deployment time by 85%
-
-**Expertise Areas:**
+**Specialized In:**
 - Enterprise Architecture & System Design
 - AI/ML Model Development & Deployment
 - Cloud Infrastructure & DevOps
 - Full-Stack Web Development
 - Database Optimization & Scaling
+- Real-time Data Processing & Analytics
+
+---
+
+## Open Source & Community
+
+Active contributor to open-source projects and technical communities. Passionate about sharing knowledge and helping others solve complex problems.
+
+---
+
+## Services & Collaboration
+
+**Available For:**
+- Freelance Projects | Technical Consulting | Code Reviews
+- Mentorship & Training | Architecture Design | System Optimization
+- Remote & Full-Time Positions | Contract Work
+
+**Response Time:** Within 24 hours
+
+---
+
+## Let's Connect
+
+<div align="center">
+  
+**Interested in collaborating or discussing a project?**
+
+[Email](mailto:bjane.asmaa1@gmail.com) | [LinkedIn](https://www.linkedin.com/in/bjaneasmaa/) | [Portfolio](https://bjaneasmaa.vercel.app)
+
+</div>
+
+---
+
+<div align="center">
+  <p>Open to meaningful collaborations and challenging projects</p>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-green?style=flat-square" alt="Status"/>
+</div>
