@@ -6,6 +6,13 @@
 
 [LinkedIn](https://www.linkedin.com/in/bjane-asmaa/) • [Portfolio](https://bjaneasmaa.vercel.app) • [Email](mailto:bjane.asmaa1@gmail.com)
 
+---
+
+### Quick Stats
+![GitHub followers](https://img.shields.io/github/followers/jbxsa01?style=flat-square&color=89b4fa)
+![GitHub stars](https://img.shields.io/github/stars/jbxsa01?style=flat-square&color=f9e2af)
+![Profile Views](https://komarev.com/ghpvc/?username=jbxsa01&style=flat-square&color=89b4fa)
+
 </div>
 
 ---
@@ -67,7 +74,7 @@ Software Engineer & AI Specialist specialized in full-stack development and inte
 
 ---
 
-## GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
   <a href="#">
@@ -78,14 +85,40 @@ Software Engineer & AI Specialist specialized in full-stack development and inte
   </a>
 </div>
 
+### Activity Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=jbxsa01&bg_color=1e1e2e&color=89b4fa&line=89b4fa&point=cdd6f4&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
+
+### Streak & Stats
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jbxsa01&hide_border=true&background=1e1e2e&stroke=89b4fa&ring=89b4fa&fire=f38ba8&currStreakLabel=89b4fa&sideLabels=89b4fa&currStreakNum=cdd6f4&dates=6c7086" alt="GitHub Streak" width="100%"/>
+</div>
+
+### Profile Summary
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jbxsa01&theme=catppuccin_mocha" alt="Profile Summary" width="100%"/>
+</div>
 
 ---
 
-## Stats
+## 🏆 Achievements & Trophies
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jbxsa01&hide_border=true&background=1e1e2e&stroke=89b4fa&ring=89b4fa&fire=f38ba8&currStreakLabel=89b4fa&sideLabels=89b4fa&currStreakNum=cdd6f4&dates=6c7086" alt="GitHub Streak" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=jbxsa01&theme=catppuccin_mocha&no-frame=true&no-bg=false&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+</div>
+
+---
+
+## 📈 Advanced Metrics
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jbxsa01&theme=catppuccin_mocha" alt="Repos per Language" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jbxsa01&theme=catppuccin_mocha" alt="Productive Time" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jbxsa01&theme=catppuccin_mocha" alt="Most Commit Language" width="32%"/>
+</div>
+
+### Statistics Overview
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jbxsa01&theme=catppuccin_mocha" alt="Stats" width="48%"/>
 </div>
 
 ---
