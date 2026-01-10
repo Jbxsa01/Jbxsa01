@@ -160,13 +160,9 @@ I'm a **full-stack engineer** and **AI specialist** with a passion for building 
 
 <div align="center" style="margin-top: 20px;">
 
-### Contribution Snake
+### Contribution Timeline
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jbxsa01/jbxsa01/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jbxsa01/jbxsa01/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jbxsa01/jbxsa01/output/github-contribution-grid-snake.svg">
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jbxsa01&bg_color=1e1e2e&color=89b4fa&line=89b4fa&point=cdd6f4&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
 
 </div>
 
