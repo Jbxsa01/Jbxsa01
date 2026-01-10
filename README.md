@@ -164,10 +164,6 @@ I'm a **full-stack engineer** and **AI specialist** with a passion for building 
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=jbxsa01&bg_color=1e1e2e&color=89b4fa&line=89b4fa&point=cdd6f4&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
 
-### Streak Statistics
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jbxsa01&hide_border=true&background=1e1e2e&stroke=89b4fa&ring=89b4fa&fire=f38ba8&currStreakLabel=89b4fa&sideLabels=89b4fa&currStreakNum=cdd6f4&dates=6c7086" alt="GitHub Streak" width="100%"/>
-
 </div>
 
 ---
@@ -181,26 +177,52 @@ I'm a **full-stack engineer** and **AI specialist** with a passion for building 
 **Reach out for:**
 - <img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" width="18" alt="AI"> Collaborations on AI/ML projects
 - <img src="https://img.icons8.com/color/96/000000/conference-call.png" width="18" alt="Consulting"> Technical consulting
-- <img src="https://img.icons8.com/color/96/000000/spark.png" width="18" alt="Idea"> Innovation & architecture discussions
-- <img src="https://img.icons8.com/color/96/000000/mentor.png" width="18" alt="Mentor"> Knowledge sharing & mentoring
+- <img src="https://img.icons8.com/color/96/000000/lightbulb.png" width="18" alt="Idea"> Innovation & architecture discussions
+- <img src="https://img.icons8.com/color/96/000000/teacher.png" width="18" alt="Mentor"> Knowledge sharing & mentoring
 
 ---
 
 ### Contact Information
 
-| Channel | Link |
-|---------|------|
-| <img src="https://img.icons8.com/color/96/000000/email.png" width="18" alt="Email"> **Email** | [bjane.asmaa1@gmail.com](mailto:bjane.asmaa1@gmail.com) |
-| <img src="https://img.icons8.com/color/96/000000/phone.png" width="18" alt="Phone"> **Phone** | [+212 652 846 950](tel:+212652846950) |
-| <img src="https://img.icons8.com/color/96/000000/linkedin.png" width="18" alt="LinkedIn"> **LinkedIn** | [bjane-asmaa](https://www.linkedin.com/in/bjane-asmaa/) |
-| <img src="https://img.icons8.com/color/96/000000/domain.png" width="18" alt="Portfolio"> **Portfolio** | [bjaneasmaa.vercel.app](https://bjaneasmaa.vercel.app) |
-| <img src="https://img.icons8.com/color/96/000000/github.png" width="18" alt="GitHub"> **GitHub** | [jbxsa01](https://github.com/jbxsa01) |
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 30px; margin: 30px 0;">
+
+<div style="text-align: center;">
+  <img src="https://img.icons8.com/color/96/000000/email.png" width="40" alt="Email" style="margin-bottom: 10px;"/>
+  <p><strong>Email</strong></p>
+  <p><a href="mailto:bjane.asmaa1@gmail.com">bjane.asmaa1@gmail.com</a></p>
+</div>
+
+<div style="text-align: center;">
+  <img src="https://img.icons8.com/color/96/000000/phone.png" width="40" alt="Phone" style="margin-bottom: 10px;"/>
+  <p><strong>Phone</strong></p>
+  <p><a href="tel:+212652846950">+212 652 846 950</a></p>
+</div>
+
+<div style="text-align: center;">
+  <img src="https://img.icons8.com/color/96/000000/linkedin.png" width="40" alt="LinkedIn" style="margin-bottom: 10px;"/>
+  <p><strong>LinkedIn</strong></p>
+  <p><a href="https://www.linkedin.com/in/bjane-asmaa/">bjane-asmaa</a></p>
+</div>
+
+<div style="text-align: center;">
+  <img src="https://img.icons8.com/color/96/000000/domain.png" width="40" alt="Portfolio" style="margin-bottom: 10px;"/>
+  <p><strong>Portfolio</strong></p>
+  <p><a href="https://bjaneasmaa.vercel.app">bjaneasmaa.vercel.app</a></p>
+</div>
+
+<div style="text-align: center;">
+  <img src="https://img.icons8.com/color/96/000000/github.png" width="40" alt="GitHub" style="margin-bottom: 10px;"/>
+  <p><strong>GitHub</strong></p>
+  <p><a href="https://github.com/jbxsa01">jbxsa01</a></p>
+</div>
+
+</div>
 
 ---
 
 <div align="center">
 
-**<img src="https://img.icons8.com/color/96/000000/idea.png" width="18" alt="Quote"> "Code is poetry, architecture is art, and AI is the future."**
+**<img src="https://img.icons8.com/color/96/000000/lightbulb.png" width="18" alt="Quote"> "Code is poetry, architecture is art, and AI is the future."**
 
 ![Profile Last Updated](https://img.shields.io/badge/Last%20Updated-January%202025-blue?style=flat-square)
 
