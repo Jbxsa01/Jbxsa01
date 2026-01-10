@@ -154,8 +154,8 @@ I'm a **full-stack engineer** and **AI specialist** with a passion for building 
 </div>
 
 <div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=jbxsa01&show_icons=true&hide_border=true&bg_color=1e1e2e&title_color=89b4fa&icon_color=f9e2af&text_color=cdd6f4&count_private=true" alt="GitHub Stats"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jbxsa01&hide_border=true&bg_color=1e1e2e&title_color=89b4fa&text_color=cdd6f4&layout=compact&langs_count=8" alt="Languages"/>
+  <img height="200em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jbxsa01&show_icons=true&hide_border=true&bg_color=1e1e2e&title_color=89b4fa&icon_color=f9e2af&text_color=cdd6f4&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img height="200em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jbxsa01&hide_border=true&bg_color=1e1e2e&title_color=89b4fa&text_color=cdd6f4&layout=compact&langs_count=8" alt="Languages"/>
 </div>
 
 <div align="center" style="margin-top: 20px;">
