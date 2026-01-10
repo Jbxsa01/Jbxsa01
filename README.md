@@ -177,7 +177,7 @@ I'm a **full-stack engineer** and **AI specialist** with a passion for building 
 **Reach out for:**
 - <img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" width="18" alt="AI"> Collaborations on AI/ML projects
 - <img src="https://img.icons8.com/color/96/000000/conference-call.png" width="18" alt="Consulting"> Technical consulting
-- <img src="https://img.icons8.com/color/96/000000/lightbulb.png" width="18" alt="Idea"> Innovation & architecture discussions
+- <img src="https://img.icons8.com/color/96/000000/light.png" width="18" alt="Idea"> Innovation & architecture discussions
 - <img src="https://img.icons8.com/color/96/000000/teacher.png" width="18" alt="Mentor"> Knowledge sharing & mentoring
 
 ---
@@ -222,7 +222,7 @@ I'm a **full-stack engineer** and **AI specialist** with a passion for building 
 
 <div align="center">
 
-**<img src="https://img.icons8.com/color/96/000000/lightbulb.png" width="18" alt="Quote"> "Code is poetry, architecture is art, and AI is the future."**
+**<img src="https://img.icons8.com/color/96/000000/light.png" width="18" alt="Quote"> "Code is poetry, architecture is art, and AI is the future."**
 
 ![Profile Last Updated](https://img.shields.io/badge/Last%20Updated-January%202025-blue?style=flat-square)
 
