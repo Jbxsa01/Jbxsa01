@@ -1,5 +1,30 @@
 ![Banner](https://raw.githubusercontent.com/jbxsa01/jbxsa01/main/Banner.png)
 
+<style>
+@keyframes fadeIn {
+  from { opacity: 0; transform: scaleX(0); }
+  to { opacity: 1; transform: scaleX(1); }
+}
+
+@keyframes slideIn {
+  from { opacity: 0; transform: translateY(-10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes glow {
+  0%, 100% { text-shadow: 0 0 5px rgba(137, 180, 250, 0.5); }
+  50% { text-shadow: 0 0 15px rgba(137, 180, 250, 0.8); }
+}
+
+img[alt="Code"], img[alt="Engineer"], img[alt="Projects"], img[alt="Stack"], img[alt="Analytics"], img[alt="Connect"] {
+  animation: slideIn 0.6s ease-out;
+}
+
+h2 {
+  animation: slideIn 0.6s ease-out;
+}
+</style>
+
 <div align="center">
 
 ## <img src="https://img.icons8.com/color/96/000000/code.png" width="25" alt="Code"> Full-Stack Engineer | AI Specialist | Tech Architect
@@ -17,7 +42,11 @@ Building elegant, scalable solutions at the intersection of **software engineeri
 
 </div>
 
----
+<div style="margin: 30px 0; display: flex; justify-content: center; align-items: center; gap: 15px; animation: fadeIn 1s ease-in;">
+  <div style="height: 2px; flex: 0.5; background: linear-gradient(90deg, transparent, #89b4fa);"></div>
+  <span style="color: #89b4fa; font-weight: bold; font-size: 12px; letter-spacing: 2px;">●</span>
+  <div style="height: 2px; flex: 0.5; background: linear-gradient(90deg, #89b4fa, transparent);"></div>
+</div>
 
 <div align="center">
 
@@ -29,7 +58,11 @@ Building elegant, scalable solutions at the intersection of **software engineeri
 
 </div>
 
----
+<div style="margin: 30px 0; display: flex; justify-content: center; align-items: center; gap: 15px; animation: fadeIn 1s ease-in;">
+  <div style="height: 2px; flex: 0.5; background: linear-gradient(90deg, transparent, #89b4fa);"></div>
+  <span style="color: #89b4fa; font-weight: bold; font-size: 12px; letter-spacing: 2px;">●</span>
+  <div style="height: 2px; flex: 0.5; background: linear-gradient(90deg, #89b4fa, transparent);"></div>
+</div>
 
 ## <img src="https://img.icons8.com/color/96/000000/about.png" width="25" alt="Engineer"> About Me
 
@@ -42,7 +75,11 @@ I'm a **full-stack engineer** and **AI specialist** with a passion for building 
 - <img src="https://img.icons8.com/color/96/000000/docker.png" width="18" alt="Cloud"> **DevOps**: Docker, Kubernetes, AWS, Cloud Architecture
 - <img src="https://img.icons8.com/color/96/000000/iphone.png" width="18" alt="Mobile"> **Mobile**: Native & Cross-platform Development
 
----
+<div style="margin: 30px 0; display: flex; justify-content: center; align-items: center; gap: 15px; animation: fadeIn 1s ease-in;">
+  <div style="height: 2px; flex: 0.5; background: linear-gradient(90deg, transparent, #f9e2af);"></div>
+  <span style="color: #f9e2af; font-weight: bold; font-size: 12px; letter-spacing: 2px;">◆</span>
+  <div style="height: 2px; flex: 0.5; background: linear-gradient(90deg, #f9e2af, transparent);"></div>
+</div>
 
 ## <img src="https://img.icons8.com/color/96/000000/project.png" width="25" alt="Projects"> Featured Projects
 
@@ -77,7 +114,11 @@ I'm a **full-stack engineer** and **AI specialist** with a passion for building 
   </tr>
 </table>
 
----
+<div style="margin: 30px 0; display: flex; justify-content: center; align-items: center; gap: 15px; animation: fadeIn 1s ease-in;">
+  <div style="height: 2px; flex: 0.5; background: linear-gradient(90deg, transparent, #89b4fa);"></div>
+  <span style="color: #89b4fa; font-weight: bold; font-size: 12px; letter-spacing: 2px;">★</span>
+  <div style="height: 2px; flex: 0.5; background: linear-gradient(90deg, #89b4fa, transparent);"></div>
+</div>
 
 ## <img src="https://img.icons8.com/color/96/000000/settings.png" width="25" alt="Stack"> Tech Stack
 
@@ -143,7 +184,11 @@ I'm a **full-stack engineer** and **AI specialist** with a passion for building 
 
 </div>
 
----
+<div style="margin: 30px 0; display: flex; justify-content: center; align-items: center; gap: 15px; animation: fadeIn 1s ease-in;">
+  <div style="height: 2px; flex: 0.5; background: linear-gradient(90deg, transparent, #f9e2af);"></div>
+  <span style="color: #f9e2af; font-weight: bold; font-size: 12px; letter-spacing: 2px;">◇</span>
+  <div style="height: 2px; flex: 0.5; background: linear-gradient(90deg, #f9e2af, transparent);"></div>
+</div>
 
 ## <img src="https://img.icons8.com/color/96/000000/analytics.png" width="25" alt="Analytics"> GitHub Analytics
 
@@ -170,7 +215,11 @@ I'm a **full-stack engineer** and **AI specialist** with a passion for building 
 
 </div>
 
----
+<div style="margin: 30px 0; display: flex; justify-content: center; align-items: center; gap: 15px; animation: fadeIn 1s ease-in;">
+  <div style="height: 2px; flex: 0.5; background: linear-gradient(90deg, transparent, #89b4fa);"></div>
+  <span style="color: #89b4fa; font-weight: bold; font-size: 12px; letter-spacing: 2px;">◆</span>
+  <div style="height: 2px; flex: 0.5; background: linear-gradient(90deg, #89b4fa, transparent);"></div>
+</div>
 
 ## <img src="https://img.icons8.com/color/96/000000/handshake.png" width="25" alt="Connect"> Let's Connect & Collaborate
 
@@ -184,7 +233,11 @@ I'm a **full-stack engineer** and **AI specialist** with a passion for building 
 - <img src="https://img.icons8.com/color/96/000000/spark.png" width="18" alt="Idea"> Innovation & architecture discussions
 - <img src="https://img.icons8.com/color/96/000000/mentor.png" width="18" alt="Mentor"> Knowledge sharing & mentoring
 
----
+<div style="margin: 30px 0; display: flex; justify-content: center; align-items: center; gap: 15px; animation: fadeIn 1s ease-in;">
+  <div style="height: 2px; flex: 0.5; background: linear-gradient(90deg, transparent, #f9e2af);"></div>
+  <span style="color: #f9e2af; font-weight: bold; font-size: 12px; letter-spacing: 2px;">✦</span>
+  <div style="height: 2px; flex: 0.5; background: linear-gradient(90deg, #f9e2af, transparent);"></div>
+</div>
 
 ### Contact Information
 
@@ -196,7 +249,11 @@ I'm a **full-stack engineer** and **AI specialist** with a passion for building 
 | <img src="https://img.icons8.com/color/96/000000/domain.png" width="18" alt="Portfolio"> **Portfolio** | [bjaneasmaa.vercel.app](https://bjaneasmaa.vercel.app) |
 | <img src="https://img.icons8.com/color/96/000000/github.png" width="18" alt="GitHub"> **GitHub** | [jbxsa01](https://github.com/jbxsa01) |
 
----
+<div style="margin: 30px 0; display: flex; justify-content: center; align-items: center; gap: 15px; animation: fadeIn 1s ease-in;">
+  <div style="height: 2px; flex: 0.5; background: linear-gradient(90deg, transparent, #89b4fa);"></div>
+  <span style="color: #89b4fa; font-weight: bold; font-size: 12px; letter-spacing: 2px;">✧</span>
+  <div style="height: 2px; flex: 0.5; background: linear-gradient(90deg, #89b4fa, transparent);"></div>
+</div>
 
 <div align="center">
 
