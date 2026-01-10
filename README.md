@@ -2,7 +2,7 @@
 
 <div align="center">
 
-## 👨‍💻 Full-Stack Engineer | AI Specialist | Tech Architect
+## <img src="https://cdn-icons-png.flaticon.com/512/3556/3556197.png" width="25" alt="Developer"> Full-Stack Engineer | AI Specialist | Tech Architect
 
 Building elegant, scalable solutions at the intersection of **software engineering** and **artificial intelligence**.
 
@@ -31,31 +31,31 @@ Building elegant, scalable solutions at the intersection of **software engineeri
 
 ---
 
-## 🎯 About Me
+## <img src="https://cdn-icons-png.flaticon.com/512/747/747376.png" width="25" alt="Target"> About Me
 
 I'm a **full-stack engineer** and **AI specialist** with a passion for building scalable, production-grade systems. Specialized in designing and implementing intelligent solutions that merge cutting-edge **machine learning** with solid **software architecture**.
 
 **Core Expertise:**
-- 🏗️ **Architecture**: Microservices, Scalability, Cloud Infrastructure
-- 🧠 **AI/ML**: NLP, Machine Learning Systems, Voice Processing, Computer Vision
-- 💻 **Full-Stack**: React, Node.js, Python, TypeScript
-- ☁️ **DevOps**: Docker, Kubernetes, AWS, Cloud Architecture
-- 📱 **Mobile**: Native & Cross-platform Development
+- <img src="https://cdn-icons-png.flaticon.com/512/2934/2934087.png" width="18" alt="Architecture"> **Architecture**: Microservices, Scalability, Cloud Infrastructure
+- <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="18" alt="AI"> **AI/ML**: NLP, Machine Learning Systems, Voice Processing, Computer Vision
+- <img src="https://cdn-icons-png.flaticon.com/512/3291/3291695.png" width="18" alt="Code"> **Full-Stack**: React, Node.js, Python, TypeScript
+- <img src="https://cdn-icons-png.flaticon.com/512/906/906377.png" width="18" alt="Cloud"> **DevOps**: Docker, Kubernetes, AWS, Cloud Architecture
+- <img src="https://cdn-icons-png.flaticon.com/512/1436/1436504.png" width="18" alt="Mobile"> **Mobile**: Native & Cross-platform Development
 
 ---
 
-## 🚀 Featured Projects
+## <img src="https://cdn-icons-png.flaticon.com/512/2103/2103665.png" width="25" alt="Rocket"> Featured Projects
 
 <table>
   <tr>
     <td width="50%">
-      <h3>🎙️ Darija AI</h3>
+      <h3><img src="https://cdn-icons-png.flaticon.com/512/3109/3109955.png" width="20" alt="Microphone"> Darija AI</h3>
       <p><strong>Speech Recognition & Voice Cloning</strong></p>
       <p>Advanced ML platform for Moroccan Arabic with state-of-the-art NLP and voice synthesis.</p>
       <p><code>Python</code> • <code>NLP</code> • <code>ML</code> • <code>Voice Tech</code></p>
     </td>
     <td width="50%">
-      <h3>🏥 CHIFAA</h3>
+      <h3><img src="https://cdn-icons-png.flaticon.com/512/2912/2912945.png" width="20" alt="Hospital"> CHIFAA</h3>
       <p><strong>AI-Powered Healthcare Platform</strong></p>
       <p>Intelligent telemedicine system with symptom checking and medical consultation services.</p>
       <p><code>Python</code> • <code>AI</code> • <code>Healthcare</code> • <code>Full-Stack</code></p>
@@ -63,13 +63,13 @@ I'm a **full-stack engineer** and **AI specialist** with a passion for building 
   </tr>
   <tr>
     <td width="50%">
-      <h3>💊 Medicare</h3>
+      <h3><img src="https://cdn-icons-png.flaticon.com/512/822/822143.png" width="20" alt="Medicine"> Medicare</h3>
       <p><strong>Medical Records Management</strong></p>
       <p>Comprehensive healthcare platform for patient records and appointment scheduling.</p>
       <p><code>Full-Stack</code> • <code>Healthcare</code> • <code>Database</code></p>
     </td>
     <td width="50%">
-      <h3>📍 Fourniss'Ma</h3>
+      <h3><img src="https://cdn-icons-png.flaticon.com/512/684/684839.png" width="20" alt="Location"> Fourniss'Ma</h3>
       <p><strong>Sales Management Mobile App</strong></p>
       <p>Cross-platform application with geolocation tracking and real-time analytics.</p>
       <p><code>Android</code> • <code>Java</code> • <code>Firebase</code> • <code>Mobile</code></p>
@@ -79,7 +79,7 @@ I'm a **full-stack engineer** and **AI specialist** with a passion for building 
 
 ---
 
-## 💼 Tech Stack
+## <img src="https://cdn-icons-png.flaticon.com/512/3588/3588592.png" width="25" alt="Tools"> Tech Stack
 
 <div align="center">
 
@@ -120,7 +120,7 @@ I'm a **full-stack engineer** and **AI specialist** with a passion for building 
 
 ---
 
-## 📊 GitHub Analytics
+## <img src="https://cdn-icons-png.flaticon.com/512/2621/2621185.png" width="25" alt="Analytics"> GitHub Analytics
 
 <div align="center">
 
@@ -147,17 +147,17 @@ I'm a **full-stack engineer** and **AI specialist** with a passion for building 
 
 ---
 
-## 🤝 Let's Connect & Collaborate
+## <img src="https://cdn-icons-png.flaticon.com/512/1679/1679914.png" width="25" alt="Connect"> Let's Connect & Collaborate
 
 <div align="center">
 
 > Always open to discussing **innovative projects**, **technical architecture**, or **AI solutions**.
 
 **Reach out for:**
-- 🔬 Collaborations on AI/ML projects
-- 🏢 Technical consulting
-- 💡 Innovation & architecture discussions
-- 📚 Knowledge sharing & mentoring
+- <img src="https://cdn-icons-png.flaticon.com/512/2974/2974531.png" width="18" alt="Research"> Collaborations on AI/ML projects
+- <img src="https://cdn-icons-png.flaticon.com/512/3050/3050159.png" width="18" alt="Building"> Technical consulting
+- <img src="https://cdn-icons-png.flaticon.com/512/2821/2821856.png" width="18" alt="Lightbulb"> Innovation & architecture discussions
+- <img src="https://cdn-icons-png.flaticon.com/512/3143/3143615.png" width="18" alt="Book"> Knowledge sharing & mentoring
 
 ---
 
@@ -165,17 +165,17 @@ I'm a **full-stack engineer** and **AI specialist** with a passion for building 
 
 | Channel | Link |
 |---------|------|
-| 📧 **Email** | [bjane.asmaa1@gmail.com](mailto:bjane.asmaa1@gmail.com) |
-| 📱 **Phone** | [+212 652 846 950](tel:+212652846950) |
-| 🔗 **LinkedIn** | [bjane-asmaa](https://www.linkedin.com/in/bjane-asmaa/) |
-| 🌐 **Portfolio** | [bjaneasmaa.vercel.app](https://bjaneasmaa.vercel.app) |
-| 💻 **GitHub** | [jbxsa01](https://github.com/jbxsa01) |
+| <img src="https://cdn-icons-png.flaticon.com/512/3388/3388563.png" width="18" alt="Email"> **Email** | [bjane.asmaa1@gmail.com](mailto:bjane.asmaa1@gmail.com) |
+| <img src="https://cdn-icons-png.flaticon.com/512/684/684908.png" width="18" alt="Phone"> **Phone** | [+212 652 846 950](tel:+212652846950) |
+| <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" width="18" alt="LinkedIn"> **LinkedIn** | [bjane-asmaa](https://www.linkedin.com/in/bjane-asmaa/) |
+| <img src="https://cdn-icons-png.flaticon.com/512/2935/2935810.png" width="18" alt="Portfolio"> **Portfolio** | [bjaneasmaa.vercel.app](https://bjaneasmaa.vercel.app) |
+| <img src="https://cdn-icons-png.flaticon.com/512/3291/3291695.png" width="18" alt="GitHub"> **GitHub** | [jbxsa01](https://github.com/jbxsa01) |
 
 ---
 
 <div align="center">
 
-**💡 "Code is poetry, architecture is art, and AI is the future."**
+**<img src="https://cdn-icons-png.flaticon.com/512/2821/2821856.png" width="18" alt="Quote"> "Code is poetry, architecture is art, and AI is the future."**
 
 ![Profile Last Updated](https://img.shields.io/badge/Last%20Updated-January%202025-blue?style=flat-square)
 
