@@ -203,39 +203,58 @@ I'm a **full-stack engineer** and **AI specialist** with a passion for building 
 
 ---
 
-### Contact Information
+### 📬 Get In Touch
 
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 30px; margin: 30px 0;">
+<div align="center">
 
-<div style="text-align: center;">
-  <img src="https://img.icons8.com/color/96/000000/email.png" width="40" alt="Email" style="margin-bottom: 10px;"/>
-  <p><strong>Email</strong></p>
-  <p><a href="mailto:bjane.asmaa1@gmail.com">bjane.asmaa1@gmail.com</a></p>
-</div>
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bjane.asmaa1@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+212652846950)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bjane-asmaa/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://bjaneasmaa.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jbxsa01)
 
-<div style="text-align: center;">
-  <img src="https://img.icons8.com/color/96/000000/phone.png" width="40" alt="Phone" style="margin-bottom: 10px;"/>
-  <p><strong>Phone</strong></p>
-  <p><a href="tel:+212652846950">+212 652 846 950</a></p>
-</div>
+<br/>
 
-<div style="text-align: center;">
-  <img src="https://img.icons8.com/color/96/000000/linkedin.png" width="40" alt="LinkedIn" style="margin-bottom: 10px;"/>
-  <p><strong>LinkedIn</strong></p>
-  <p><a href="https://www.linkedin.com/in/bjane-asmaa/">bjane-asmaa</a></p>
-</div>
-
-<div style="text-align: center;">
-  <img src="https://img.icons8.com/color/96/000000/domain.png" width="40" alt="Portfolio" style="margin-bottom: 10px;"/>
-  <p><strong>Portfolio</strong></p>
-  <p><a href="https://bjaneasmaa.vercel.app">bjaneasmaa.vercel.app</a></p>
-</div>
-
-<div style="text-align: center;">
-  <img src="https://img.icons8.com/color/96/000000/github.png" width="40" alt="GitHub" style="margin-bottom: 10px;"/>
-  <p><strong>GitHub</strong></p>
-  <p><a href="https://github.com/jbxsa01">jbxsa01</a></p>
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="mailto:bjane.asmaa1@gmail.com">
+        <img src="https://img.icons8.com/fluency/96/000000/gmail-new.png" width="50" alt="Email"/>
+        <br/><strong>bjane.asmaa1@gmail.com</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="tel:+212652846950">
+        <img src="https://img.icons8.com/fluency/96/000000/phone.png" width="50" alt="Phone"/>
+        <br/><strong>+212 652 846 950</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/bjane-asmaa/">
+        <img src="https://img.icons8.com/fluency/96/000000/linkedin.png" width="50" alt="LinkedIn"/>
+        <br/><strong>bjane-asmaa</strong>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://bjaneasmaa.vercel.app">
+        <img src="https://img.icons8.com/fluency/96/000000/domain.png" width="50" alt="Portfolio"/>
+        <br/><strong>bjaneasmaa.vercel.app</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/jbxsa01">
+        <img src="https://img.icons8.com/fluency/96/000000/github.png" width="50" alt="GitHub"/>
+        <br/><strong>jbxsa01</strong>
+      </a>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/fluency/96/000000/marker.png" width="50" alt="Location"/>
+      <br/><strong>Morocco</strong>
+    </td>
+  </tr>
+</table>
 
 </div>
 
