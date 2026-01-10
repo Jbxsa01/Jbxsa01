@@ -172,13 +172,34 @@ I'm a **full-stack engineer** and **AI specialist** with a passion for building 
 
 <div align="center">
 
-> Always open to discussing **innovative projects**, **technical architecture**, or **AI solutions**.
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>💬 Open to Discuss</h3>
+      <p>Always excited to talk about:</p>
+      <p>
+        <strong>Innovative Projects</strong><br/>
+        <strong>Technical Architecture</strong><br/>
+        <strong>AI Solutions</strong>
+      </p>
+    </td>
+    <td align="center" width="50%">
+      <h3>🤝 Ready to Collaborate</h3>
+      <br/>
+      <p>
+        <img src="https://img.shields.io/badge/AI%2FML_Projects-00C9FF?style=for-the-badge&logoColor=white" alt="AI/ML"/>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Technical_Consulting-6A0DAD?style=for-the-badge&logoColor=white" alt="Consulting"/>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Architecture_Discussions-FF6B6B?style=for-the-badge&logoColor=white" alt="Architecture"/>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Knowledge_Sharing-4CAF50?style=for-the-badge&logoColor=white" alt="Mentoring"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
-**Reach out for:**
-- <img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" width="18" alt="AI"> Collaborations on AI/ML projects
-- <img src="https://img.icons8.com/color/96/000000/conference-call.png" width="18" alt="Consulting"> Technical consulting
-- <img src="https://img.icons8.com/color/96/000000/light.png" width="18" alt="Idea"> Innovation & architecture discussions
-- <img src="https://img.icons8.com/color/96/000000/teacher.png" width="18" alt="Mentor"> Knowledge sharing & mentoring
+</div>
 
 ---
 
