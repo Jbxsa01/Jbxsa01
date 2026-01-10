@@ -36,11 +36,11 @@ Building elegant, scalable solutions at the intersection of **software engineeri
 I'm a **full-stack engineer** and **AI specialist** with a passion for building scalable, production-grade systems. Specialized in designing and implementing intelligent solutions that merge cutting-edge **machine learning** with solid **software architecture**.
 
 **Core Expertise:**
-- <img src="https://img.icons8.com/color/96/000000/server-multiple.png" width="18" alt="Architecture"> **Architecture**: Microservices, Scalability, Cloud Infrastructure
+- <img src="https://img.icons8.com/color/96/000000/organization.png" width="18" alt="Architecture"> **Architecture**: Microservices, Scalability, Cloud Infrastructure
 - <img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" width="18" alt="AI"> **AI/ML**: NLP, Machine Learning Systems, Voice Processing, Computer Vision
 - <img src="https://img.icons8.com/color/96/000000/code.png" width="18" alt="Full-Stack"> **Full-Stack**: React, Node.js, Python, TypeScript
 - <img src="https://img.icons8.com/color/96/000000/docker.png" width="18" alt="Cloud"> **DevOps**: Docker, Kubernetes, AWS, Cloud Architecture
-- <img src="https://img.icons8.com/color/96/000000/mobile.png" width="18" alt="Mobile"> **Mobile**: Native & Cross-platform Development
+- <img src="https://img.icons8.com/color/96/000000/iphone.png" width="18" alt="Mobile"> **Mobile**: Native & Cross-platform Development
 
 ---
 
