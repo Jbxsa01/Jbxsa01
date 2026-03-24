@@ -44,8 +44,6 @@ I'm a **full-stack engineer** and **AI specialist** with a passion for building 
 
 ---
 
----
-
 ## <img src="https://img.icons8.com/color/96/000000/settings.png" width="25" alt="Stack"> Tech Stack
 
 <div align="center">
