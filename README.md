@@ -87,8 +87,8 @@ I am a full-stack engineer and AI specialist focused on production-grade systems
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jbxsa01&show_icons=true&hide_border=true&rank_icon=github&cache_seconds=1800" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jbxsa01&layout=compact&hide_border=true&langs_count=8&card_width=320&count_private=true&cache_seconds=1800" alt="Top languages" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jbxsa01&theme=github" alt="GitHub stats" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jbxsa01&theme=github" alt="Top languages" height="165"/>
 </p>
 
 <p align="center">
