@@ -89,25 +89,25 @@ I help teams move from idea to production with clean architecture, fast delivery
 
 ---
 
-## Collaboration
+## <img src="https://img.icons8.com/color/96/000000/handshake.png" width="22" alt="Collaboration"/> Collaboration
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>What I can help with</h3>
+      <h3><img src="https://img.icons8.com/color/96/000000/idea.png" width="18" alt="Strategy"/> What I can help with</h3>
       <ul>
-        <li>Turning product ideas into execution-ready roadmaps</li>
-        <li>Designing robust architectures for long-term scale</li>
-        <li>Embedding AI capabilities into real user workflows</li>
+        <li><img src="https://img.icons8.com/color/96/000000/goal.png" width="14" alt="Roadmap"/> Turning product ideas into execution-ready roadmaps</li>
+        <li><img src="https://img.icons8.com/color/96/000000/blueprint.png" width="14" alt="Architecture"/> Designing robust architectures for long-term scale</li>
+        <li><img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" width="14" alt="AI"/> Embedding AI capabilities into real user workflows</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>Engagement formats</h3>
+      <h3><img src="https://img.icons8.com/color/96/000000/conference-call.png" width="18" alt="Engagement"/> Engagement formats</h3>
       <ul>
-        <li>AI/ML product build and delivery</li>
-        <li>Technical consulting and architecture advisory</li>
-        <li>System audits and performance optimization</li>
-        <li>Mentoring, workshops, and team enablement</li>
+        <li><img src="https://img.icons8.com/color/96/000000/rocket--v1.png" width="14" alt="Delivery"/> AI/ML product build and delivery</li>
+        <li><img src="https://img.icons8.com/color/96/000000/consultation.png" width="14" alt="Consulting"/> Technical consulting and architecture advisory</li>
+        <li><img src="https://img.icons8.com/color/96/000000/combo-chart--v1.png" width="14" alt="Optimization"/> System audits and performance optimization</li>
+        <li><img src="https://img.icons8.com/color/96/000000/training.png" width="14" alt="Mentoring"/> Mentoring, workshops, and team enablement</li>
       </ul>
     </td>
   </tr>
