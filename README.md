@@ -89,25 +89,25 @@ I help teams move from idea to production with clean architecture, fast delivery
 
 ---
 
-## <img src="https://img.icons8.com/color/96/000000/handshake.png" width="22" alt="Collaboration"/> Collaboration
+## <img src="https://img.icons8.com/color/96/000000/handshake.png" width="22" alt="Collaboration"/> Professional Engagement
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><img src="https://img.icons8.com/color/96/000000/idea.png" width="18" alt="Strategy"/> What I can help with</h3>
+      <h3><img src="https://img.icons8.com/color/96/000000/idea.png" width="18" alt="Services"/> Service Scope</h3>
       <ul>
-        <li><img src="https://img.icons8.com/color/96/000000/goal.png" width="14" alt="Roadmap"/> Turning product ideas into execution-ready roadmaps</li>
-        <li><img src="https://img.icons8.com/color/96/000000/blueprint.png" width="14" alt="Architecture"/> Designing robust architectures for long-term scale</li>
-        <li><img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" width="14" alt="AI"/> Embedding AI capabilities into real user workflows</li>
+        <li><img src="https://img.icons8.com/color/96/000000/goal.png" width="14" alt="Discovery"/> Product discovery, technical scoping, and delivery planning</li>
+        <li><img src="https://img.icons8.com/color/96/000000/blueprint.png" width="14" alt="Architecture"/> Scalable architecture design for high-growth platforms</li>
+        <li><img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" width="14" alt="AI Integration"/> Production-grade AI integration (LLM, NLP, OCR, automation)</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3><img src="https://img.icons8.com/color/96/000000/conference-call.png" width="18" alt="Engagement"/> Engagement formats</h3>
+      <h3><img src="https://img.icons8.com/color/96/000000/conference-call.png" width="18" alt="Engagement"/> Collaboration Models</h3>
       <ul>
-        <li><img src="https://img.icons8.com/color/96/000000/rocket--v1.png" width="14" alt="Delivery"/> AI/ML product build and delivery</li>
-        <li><img src="https://img.icons8.com/color/96/000000/consultation.png" width="14" alt="Consulting"/> Technical consulting and architecture advisory</li>
-        <li><img src="https://img.icons8.com/color/96/000000/combo-chart--v1.png" width="14" alt="Optimization"/> System audits and performance optimization</li>
-        <li><img src="https://img.icons8.com/color/96/000000/training.png" width="14" alt="Mentoring"/> Mentoring, workshops, and team enablement</li>
+        <li><img src="https://img.icons8.com/color/96/000000/rocket--v1.png" width="14" alt="Build"/> End-to-end product build and modernization initiatives</li>
+        <li><img src="https://img.icons8.com/color/96/000000/consultation.png" width="14" alt="Advisory"/> CTO advisory and architecture consulting</li>
+        <li><img src="https://img.icons8.com/color/96/000000/combo-chart--v1.png" width="14" alt="Audit"/> Platform audit, performance tuning, and reliability improvement</li>
+        <li><img src="https://img.icons8.com/color/96/000000/training.png" width="14" alt="Enablement"/> Team enablement through mentoring and technical workshops</li>
       </ul>
     </td>
   </tr>
@@ -115,13 +115,26 @@ I help teams move from idea to production with clean architecture, fast delivery
 
 ---
 
-## Contact
+## <img src="https://img.icons8.com/color/96/000000/new-post.png" width="22" alt="Contact"/> Contact
 
-- Email: [bjane.asmaa1@gmail.com](mailto:bjane.asmaa1@gmail.com)
-- Phone: [+212 652 846 950](tel:+212652846950)
-- LinkedIn: [bjane-asmaa](https://www.linkedin.com/in/bjane-asmaa/)
-- Portfolio: [bjaneasmaa.vercel.app](https://bjaneasmaa.vercel.app)
-- GitHub: [jbxsa01](https://github.com/jbxsa01)
+<p align="left">
+  <a href="mailto:bjane.asmaa1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-bjane.asmaa1%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="tel:+212652846950">
+    <img src="https://img.shields.io/badge/Phone-%2B212%20652%20846%20950-2E7D32?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/>
+  </a>
+  <a href="https://www.linkedin.com/in/bjane-asmaa/">
+    <img src="https://img.shields.io/badge/LinkedIn-bjane--asmaa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://bjaneasmaa.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Site-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
+<p>
+  Open to remote and hybrid collaborations for product engineering, AI initiatives, and architecture leadership.
+</p>
 
 ---
 
