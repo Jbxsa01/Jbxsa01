@@ -1,11 +1,11 @@
 <h1 align="center">Asmaa Bjane</h1>
 
 <p align="center">
-  <strong>Full-Stack Engineer | AI Specialist | Tech Architect</strong>
+  <strong>Senior Full-Stack Engineer | AI Systems Architect</strong>
 </p>
 
 <p align="center">
-  Building elegant, scalable solutions at the intersection of software engineering and artificial intelligence.
+  I design and ship reliable software products where modern engineering meets practical AI.
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://bjaneasmaa.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="mailto:bjane.asmaa1@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
@@ -31,56 +31,52 @@
 
 ---
 
-## About Me
+## Executive Summary
 
-I am a full-stack engineer and AI specialist focused on production-grade systems that are reliable, maintainable, and scalable.
+I help teams move from idea to production with clean architecture, fast delivery, and measurable outcomes.
 
-- Architecture: microservices, cloud infrastructure, performance and scaling
-- AI/ML: NLP, computer vision, voice processing, intelligent automation
-- Full-stack: React, Node.js, Python, TypeScript
-- DevOps: Docker, Kubernetes, AWS
-- Mobile: native and cross-platform development
+- Build scalable platforms that remain maintainable as complexity grows
+- Integrate AI where it creates real business value, not just demos
+- Improve reliability, performance, and delivery speed across the stack
 
 ---
 
-## Tech Stack
+## Core Capabilities
 
-### Languages
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+### Product Engineering
+- Full-stack development for web and mobile products
+- API-first architecture and backend platform design
+- End-to-end delivery from MVP to production hardening
+
+### AI Engineering
+- NLP, speech, OCR, and intelligent automation workflows
+- Applied LLM integration with quality and cost constraints
+- MLOps-oriented design for dependable AI features
+
+### Architecture and Operations
+- Cloud-native systems on AWS with Docker and Kubernetes
+- Performance optimization, observability, and scalability planning
+- Technical leadership, reviews, and architecture governance
+
+---
+
+## Technology Focus
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-
-### Frontend and Backend
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-### AI and Data
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Whisper](https://img.shields.io/badge/Whisper_AI-412991?style=flat-square)
-![Coqui TTS](https://img.shields.io/badge/Coqui_TTS-009688?style=flat-square)
-![OCR](https://img.shields.io/badge/OCR-5C2D91?style=flat-square)
-![Automation](https://img.shields.io/badge/N8N_Automations-FF6B6B?style=flat-square)
-
-### Databases and Cloud
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 ---
 
@@ -91,10 +87,6 @@ I am a full-stack engineer and AI specialist focused on production-grade systems
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jbxsa01&theme=github" alt="Top languages" height="165"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jbxsa01&area=true&hide_border=true" alt="Contribution graph" width="100%"/>
-</p>
-
 ---
 
 ## Collaboration
@@ -102,20 +94,20 @@ I am a full-stack engineer and AI specialist focused on production-grade systems
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>Open to discuss</h3>
+      <h3>What I can help with</h3>
       <ul>
-        <li>Innovative software products</li>
-        <li>Scalable technical architecture</li>
-        <li>Applied AI and automation</li>
+        <li>Turning product ideas into execution-ready roadmaps</li>
+        <li>Designing robust architectures for long-term scale</li>
+        <li>Embedding AI capabilities into real user workflows</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>Ready to collaborate</h3>
+      <h3>Engagement formats</h3>
       <ul>
-        <li>AI/ML projects</li>
-        <li>Technical consulting</li>
-        <li>Architecture reviews</li>
-        <li>Knowledge sharing</li>
+        <li>AI/ML product build and delivery</li>
+        <li>Technical consulting and architecture advisory</li>
+        <li>System audits and performance optimization</li>
+        <li>Mentoring, workshops, and team enablement</li>
       </ul>
     </td>
   </tr>
@@ -125,16 +117,14 @@ I am a full-stack engineer and AI specialist focused on production-grade systems
 
 ## Contact
 
-<p>
-  <a href="mailto:bjane.asmaa1@gmail.com"><strong>Email</strong></a>: bjane.asmaa1@gmail.com<br/>
-  <a href="tel:+212652846950"><strong>Phone</strong></a>: +212 652 846 950<br/>
-  <a href="https://www.linkedin.com/in/bjane-asmaa/"><strong>LinkedIn</strong></a>: bjane-asmaa<br/>
-  <a href="https://bjaneasmaa.vercel.app"><strong>Portfolio</strong></a>: bjaneasmaa.vercel.app<br/>
-  <a href="https://github.com/jbxsa01"><strong>GitHub</strong></a>: jbxsa01
-</p>
+- Email: [bjane.asmaa1@gmail.com](mailto:bjane.asmaa1@gmail.com)
+- Phone: [+212 652 846 950](tel:+212652846950)
+- LinkedIn: [bjane-asmaa](https://www.linkedin.com/in/bjane-asmaa/)
+- Portfolio: [bjaneasmaa.vercel.app](https://bjaneasmaa.vercel.app)
+- GitHub: [jbxsa01](https://github.com/jbxsa01)
 
 ---
 
 <p align="center">
-  <em>Code is poetry, architecture is art, and AI is the future.</em>
+  <em>Engineering with clarity. Shipping with impact.</em>
 </p>
